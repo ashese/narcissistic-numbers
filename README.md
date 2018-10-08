@@ -1,5 +1,5 @@
 # narcissistic-numbers
-A simple program to check whether a given number is narcissistic or not.
+A simple program to check whether a given number is narcissistic.
 
 For e.g. abc (3 digit number, the exponent)
           abc = a^3 + b^3 + c^3;   [this is an Armstrong number]
